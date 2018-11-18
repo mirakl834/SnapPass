@@ -11,9 +11,17 @@
   "dependencies": {
     "expo": "^31.0.2",
     "react": "16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native-camera": "^0.9.4",
+    "react-native-image-resizer": "^0.1.1",
+    "react-native-image-to-base64": "^0.1.0",
+    "react-native-spinkit": "^1.0.3"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
-  }
+  },
+  "version": "1.0.0",
+  "repository": "https://github.com/mirakl834/SnapPass.git",
+  "author": "ALL-MIGHTY-LABT\\karel <mirakl834@gmail.com>",
+  "license": "MIT"
 }
